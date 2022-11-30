@@ -1,0 +1,25 @@
+/* Write your CSS code here */
+.item-container {
+  display: flex;
+  flex-direction: row;
+}
+.items {
+  display: flex;
+  flex-direction: column;
+}
+.title {
+  color: #12022f;
+  font-size: 25px;
+  font-weight: bold;
+  font-family: 'Roboto';
+}
+.description {
+  color: #9aa5b1;
+  font-size: 14px;
+  font-family: 'Roboto';
+}
+.date {
+  color: #9aa5b1;
+  font-family: 'Roboto';
+  font-size: 14px;
+}
